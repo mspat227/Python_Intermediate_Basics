@@ -2,3 +2,5 @@
 Python Intermediate level basic concepts
 Data types
 Module Collections
+Module itrtools
+Lambda
