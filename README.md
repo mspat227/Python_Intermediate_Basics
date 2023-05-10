@@ -4,3 +4,5 @@ Data types
 Module Collections
 Module itrtools
 Lambda
+Exceptions
+Class_exceptions
