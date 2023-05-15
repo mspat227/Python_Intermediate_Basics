@@ -1,7 +1,7 @@
 #decorators used to increase a functanality of a excicting function
 def start_end_print(func):          #decorator function takes the function need to be changed as argument
     def wrapper():                  #wrapper will take the all functanality together and will return
-        print("Starts")             #things we vcan add before the function
+        print("Starts")             #things we can add before the function
         func()                      #function need to be changed
         print("Ends")               #things we can add after the function
     return wrapper                  #returning the wrapper
